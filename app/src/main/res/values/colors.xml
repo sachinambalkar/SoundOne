@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="seekbar_bg">#141414</color>
+    <color name="seekbar_progress">#a53130</color>
+    <color name="seekbar_sec_progress">#875e5e</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="pointer_color">#0174DF</color>
+    <color name="pointer_halo_color">#88252525</color>
+    <color name="text_color">#FF0000</color>
+    <color name="wheel_active_color">#00BFFF</color>
+    <color name="wheel_unactive_color">#FFCCCCCC</color>
+
+    <color name="point_color">#FF4081</color>
+    <color name="point_halo_color">#FF4081</color>
+
+
+</resources>
