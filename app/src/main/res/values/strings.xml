@@ -5,12 +5,12 @@
     <string name="song2">http://pulselocator.com/songs/sun_raha_hai_na.mp3</string>
     <string name="song3">http://pulselocator.com/songs/chahun_Main_Ya_Naa.mp3</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_select_group">SelectGroup</string>
+    <string name="title_activity_select_group">SoundOneSelectGroup</string>
 
-    <string name="title_activity_server">ServerActivity</string>
+    <string name="title_activity_server">SoundOneServerActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
-    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_activity_client">SoundOneClientActivity</string>
     <string name="hint_groupname">Enter group name</string>
 </resources>
